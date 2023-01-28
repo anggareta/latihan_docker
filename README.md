@@ -5,7 +5,7 @@ dotnet core inside docker
 - docker build . -t ayus/net-web-app
 - docker run -p 3000:5000 -d ayus/net-web-app
 
-#### brows
+#### browse
 - localhost:3000
 
 #### reference
